@@ -1,4 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Bujok===================================================================================================================================Junior Software Developer-------------------------Code Clan Boot Camp graduate passionate about transitioning from the creative industry to coding. Enthusiastic about the intersection of creativity and technology. I love coding, automation, scripting, and creating solutions that bring ideas to life. Committed to continuous learning and eager to contribute my skills to innovative projects. Let's collaborate and build something amazing! 🚀* 🌍  I'm based in Edinburgh* ✉️  You can contact me at [davidbujok01@gmail.com](mailto:davidbujok01@gmail.com)* 🚀  I'm currently working on [Automated Job Search: Empowering Careers with Scraping and OpenAI](http://https://github.com/davidbujok/job-scrapper)* 🧠  I'm learning React & SQL & Python & TypeScript* 🤝  I'm open to collaborating on all project to sharpen and refine my skills.* ⚡  Embracing the power of Linux and CLI, where every terminal session is a thrilling adventure
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Bujok
+===================================================================================================================================
+Junior Software Developer
+-------------------------
+Code Clan Boot Camp graduate passionate about transitioning from the creative industry to coding. 
+Enthusiastic about the intersection of creativity and technology. I love coding, automation, scripting, 
+and creating solutions that bring ideas to life. Committed to continuous learning and eager to contribute
+my skills to innovative projects. Let's collaborate and build something amazing! 
+🚀* 🌍  I'm based in Edinburgh* 
+✉️  You can contact me at [davidbujok01@gmail.com](mailto:davidbujok01@gmail.com)* 
+🚀  I'm currently working on [Automated Job Search: Empowering Careers with Scraping and OpenAI](http://https://github.com/davidbujok/job-scrapper)* 
+🧠  I'm learning React & SQL & Python & TypeScript* 
+🤝  I'm open to collaborating on all project to sharpen and refine my skills.* 
+⚡  Embracing the power of Linux and CLI, where every terminal session is a thrilling adventure
 
 ### Skills
 
